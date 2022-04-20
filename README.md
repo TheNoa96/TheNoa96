@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thenoa96" alt="thenoa96" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/thenoa96" target="blank"><img src="https://img.shields.io/twitter/follow/thenoa96?logo=twitter&style=for-the-badge" alt="thenoa96" /></a> </p>
+<p align="left"> <a href="https://twitter.com/NicolasAravena9" target="blank"><img src="https://img.shields.io/twitter/follow/thenoa96?logo=twitter&style=for-the-badge" alt="thenoa96" /></a> </p>
 
 - 🔭 I’m currently working on [BookMatch](https://github.com/TheNoa96/TheFinalProyect.git)
 
